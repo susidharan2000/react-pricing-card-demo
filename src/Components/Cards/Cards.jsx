@@ -1,5 +1,4 @@
 import React from "react";
-import styles from "./Cards.module.css";
 import { FaCheck } from "react-icons/fa";
 import { MdClose } from "react-icons/md";
 const Cards = (props) => {

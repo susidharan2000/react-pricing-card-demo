@@ -1,0 +1,23 @@
+.card {
+   /*  max-width: 350px; */
+    margin:50px 70px;
+}
+
+.card:hover {
+    transition: all 0.4s;
+    transform: scale(1.02)
+}
+
+.card-title {
+    font-size: small;
+    color: rgb(118, 118, 118);
+}
+
+.card-pricing {
+    font-size: 2.5rem;
+}
+.card-content{
+    font-size: 0.8rem;
+    font-weight: 300;
+    color: black;
+}
